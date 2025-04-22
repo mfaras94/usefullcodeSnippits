@@ -1,1 +1,1 @@
-# usefullcodeSnippits
+# usefullcodeSnippits in Wiki
